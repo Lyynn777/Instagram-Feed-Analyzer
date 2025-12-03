@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Post[] feed = CSVLoader.loadPosts("C:/Users/user/InstagramFeedAnalyzer/data/Instagram_Analytics.csv");
+        Post[] feed = CSVLoader.loadPosts("data/Instagram_Analytics.csv");
 
         System.out.println("\n===== 📊 Instagram Feed Insights Dashboard =====");
 
