@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=openjdk)
+![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge)
+![Built With](https://img.shields.io/badge/Built%20With-Arrays,%20HashMaps,%20DSA-blue?style=for-the-badge)
+![Dataset Size](https://img.shields.io/badge/Dataset-30K%20posts-orange?style=for-the-badge)
+
+
 # 📊 Instagram Feed Insights Analyzer  
 A Java-based analytics engine that processes 30,000 real Instagram-style posts and generates meaningful insights using core Array operations.
 
